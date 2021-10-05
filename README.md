@@ -1,4 +1,4 @@
-# Basic Speech-To-Text Convertor using Google API
+# Basic Speech-To-Text Converter using Google API
 
 A Python script to covert speech from microphone to text and display on the  screen.
 
