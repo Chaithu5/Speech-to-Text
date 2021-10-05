@@ -5,10 +5,9 @@ A Python script to covert speech from microphone to text and display on the  scr
 # Libraries
 
 -Python3
--An IDE
--Speech Recognition Module
--PyAudio Module
--Pip Installer
+ -Speech Recognition Module
+ -PyAudio Module
+ -Pip Installer
 
 ```pip install SpeechRecognition```
 ```pip install PyAudio```
